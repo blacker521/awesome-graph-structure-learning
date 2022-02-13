@@ -2,7 +2,7 @@
 
 A collection of research papers related to graph structure learning.
 
-![](\gsl.png)
+![](https://github.com/blacker521/awesome-graph-structure-learning/blob/main/gsl.png)
 
 ## Survey
 

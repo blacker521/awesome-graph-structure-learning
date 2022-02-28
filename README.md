@@ -24,4 +24,5 @@ A collection of research papers related to graph structure learning.
 - **Latent Patient Network Learning for Automatic Diagnosis** [[Paper](https://arxiv.org/pdf/2003.13620.pdf)]
 - **Data Augmentation for Graph Neural Networks** [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf)] [[Code](https://github.com/zhao-tong/GAug)]
 - **AM-GCN: Adaptive Multi-channel Graph Convolutional Networks** [[Paper](http://shichuan.org/doc/86.pdf)] [[Code](https://github.com/zhumeiqiBUPT/AM-GCN)]
+- **Graph Structure Learning with Variational Information Bottleneck** [[Paper](https://arxiv.org/pdf/2112.08903.pdf)] 
 

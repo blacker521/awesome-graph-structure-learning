@@ -25,4 +25,7 @@ A collection of research papers related to graph structure learning(GSL).
 - **Data Augmentation for Graph Neural Networks** [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf)] [[Code](https://github.com/zhao-tong/GAug)]
 - **AM-GCN: Adaptive Multi-channel Graph Convolutional Networks** [[Paper](http://shichuan.org/doc/86.pdf)] [[Code](https://github.com/zhumeiqiBUPT/AM-GCN)]
 - **Graph Structure Learning with Variational Information Bottleneck** [[Paper](https://arxiv.org/pdf/2112.08903.pdf)] 
+- **Probabilistic Semi-Supervised Learning via Sparse Graph Structure Learning** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9063663)] 
+- **Label-informed Graph Structure Learning for Node Classification** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482129)] 
+- **Multi-view graph structure learning using subspace merging on Grassmann manifold** [[Paper](https://arxiv.org/abs/2204.05258)] 
 

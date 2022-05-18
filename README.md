@@ -1,6 +1,6 @@
 # Awesome Graph Structure Learning
 
-A collection of research papers related to graph structure learning(GSL).
+A collection of research papers related to Graph Structure Learning(GSL).
 
 ![](https://github.com/blacker521/awesome-graph-structure-learning/blob/main/gsl.png)
 

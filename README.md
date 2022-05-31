@@ -28,6 +28,6 @@ A collection of research papers related to Graph Structure Learning(GSL).
 - **Probabilistic Semi-Supervised Learning via Sparse Graph Structure Learning** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9063663)] 
 - **Label-informed Graph Structure Learning for Node Classification** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482129)] 
 - **Multi-view graph structure learning using subspace merging on Grassmann manifold** [[Paper](https://arxiv.org/abs/2204.05258)] 
-- **Towards Unsupervised Deep Graph Structure Learning ** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186)] [[Code](https://github.com/GRAND-Lab/SUBLIME)]
+- **Towards Unsupervised Deep Graph Structure Learning** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186)] [[Code](https://github.com/GRAND-Lab/SUBLIME)]
 - **Prohibited Item Detection via Risk Graph Structure Learning** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512190)] 
 

@@ -31,4 +31,4 @@ A collection of research papers related to Graph Structure Learning(GSL).
 - **Towards Unsupervised Deep Graph Structure Learning** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186)] [[Code](https://github.com/GRAND-Lab/SUBLIME)]
 - **Prohibited Item Detection via Risk Graph Structure Learning** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512190)] 
 - **Structural Entropy Guided Graph Hierarchical Pooling** [[Paper](https://proceedings.mlr.press/v162/wu22b/wu22b.pdf)]
-
+- **Boosting Graph Structure Learning with Dummy Nodes** [[Paper](https://arxiv.org/pdf/2206.08561.pdf)] [[Code](https://github.com/HKUST-KnowComp/DummyNode4GraphLearning)]

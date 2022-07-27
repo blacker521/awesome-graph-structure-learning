@@ -30,4 +30,5 @@ A collection of research papers related to Graph Structure Learning(GSL).
 - **Multi-view graph structure learning using subspace merging on Grassmann manifold** [[Paper](https://arxiv.org/abs/2204.05258)] 
 - **Towards Unsupervised Deep Graph Structure Learning** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186)] [[Code](https://github.com/GRAND-Lab/SUBLIME)]
 - **Prohibited Item Detection via Risk Graph Structure Learning** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512190)] 
+- **Structural Entropy Guided Graph Hierarchical Pooling** [[Paper](https://proceedings.mlr.press/v162/wu22b/wu22b.pdf)]
 
